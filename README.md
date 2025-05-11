@@ -1,7 +1,5 @@
 # README #
 
-This README would normally document whatever steps are necessary to get your application up and running.
-
 ### What is this repository for? ###
 
 Old chess game I made in python years ago.
